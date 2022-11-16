@@ -10,10 +10,10 @@ function Home(){
                 <Logo />     
             </div>
             <div className="centerContainer">
-                 <Feed/>
+                 <Feed />
             </div>
             <div className="rightContainer">
-               <LoginOption/>
+               <LoginOption />
             </div>
         </div>
     );
